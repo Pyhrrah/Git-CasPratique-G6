@@ -1,3 +1,7 @@
+Elève 1 = MATHUREL Bryan
+Elève 2 = MATHURIN Elias
+Elève 3 = MATHURIN ELIAS et MATHUREL Bryan
+
 # CasPratique : *Versioning avec Git et GitHub*
 
 ### Modalités
